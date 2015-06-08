@@ -1,0 +1,1 @@
+Bluster = Ember.Application.create()
